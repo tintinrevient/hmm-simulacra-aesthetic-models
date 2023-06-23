@@ -1,4 +1,4 @@
-# Hmm... 
+# Hmm... oooohmhuhhhh
 
 ## Installation
 
@@ -19,5 +19,8 @@ python rank_images.py images/
 ## Exploration
 
 ```bash
+pip install ipykernel
+python -m ipykernel install --user --name simulacra
+
 jupyter-lab
 ```
