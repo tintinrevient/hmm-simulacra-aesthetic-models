@@ -2,8 +2,6 @@
 
 ![artist](pix/artist.png)
 
-![artist](pix/genre.png)
-
 ## Installation
 
 ```bash
