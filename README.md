@@ -2,6 +2,7 @@
 
 ![artist](pix/artist.png)
 
+Beautiful palette vs. Ugly palette 🎨 
 <p float="left">
     <img src="pix/beautiful-palette.png" height="300" />
     <img src="pix/ugly-palette.png" height="300" />
