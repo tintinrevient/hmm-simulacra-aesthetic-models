@@ -1,5 +1,7 @@
 # Hmm... oooohmhuhhhh
 
+When it scores each artist...
+
 ![artist](pix/artist.png)
 
 Beautiful palette vs. Ugly palette 🎨 
