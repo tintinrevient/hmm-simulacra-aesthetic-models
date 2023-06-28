@@ -3,8 +3,8 @@
 ![artist](pix/artist.png)
 
 <p float="left">
-    <img src="pix/beautiful-palette.png" height="350" />
-    <img src="pix/ugly-palette.png" height="350" />
+    <img src="pix/beautiful-palette.png" height="320" />
+    <img src="pix/ugly-palette.png" height="320" />
 </p>
 
 ## Installation
