@@ -2,6 +2,11 @@
 
 ![artist](pix/artist.png)
 
+<p float="left">
+    <img src="pix/beautiful-palette.png" height="200" />
+    <img src="pix/ugly-palette.png" height="200" />
+</p>
+
 ## Installation
 
 ```bash
